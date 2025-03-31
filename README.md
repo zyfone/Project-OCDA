@@ -1,5 +1,7 @@
 # Project-OCDA
 
+1. Open-set Mixed Domain Adaptation via Visual-Linguistic Focal Evolving
+
 ## Adverse Weather Conditions
 1. Open Compound Domain Adaptation
 2. SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
